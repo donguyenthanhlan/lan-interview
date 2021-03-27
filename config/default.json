@@ -1,0 +1,10 @@
+{
+  "Secret": {
+    "jwtKey": "lan-interview"
+  },
+  "Application": {
+    "port": 3003,
+    "tokenExpired": 1800,
+    "version": "v1"
+  }
+}
