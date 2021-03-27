@@ -3,7 +3,7 @@
     "jwtKey": "lan-interview"
   },
   "Application": {
-    "port": 3003,
+    "port": 8080,
     "tokenExpired": 1800,
     "version": "v1"
   }
